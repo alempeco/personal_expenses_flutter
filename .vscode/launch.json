@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "expensiv_planer",
+            "cwd": "expensiv_planer\\expensiv_planer",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "expensiv_planer (profile mode)",
+            "cwd": "expensiv_planer\\expensiv_planer",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "expensiv_planer (release mode)",
+            "cwd": "expensiv_planer\\expensiv_planer",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
